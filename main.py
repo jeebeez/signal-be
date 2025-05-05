@@ -21,8 +21,7 @@ app = FastAPI(
 
 origins = [
     "http://localhost:3000",
-    "https://openfunnel.jeebee.dev",
-    "https://jeebee-funnel.vercel.app",
+    "https://signal.jeebee.dev",
 ]
 
 app.add_middleware(
