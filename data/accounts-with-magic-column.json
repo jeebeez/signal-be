@@ -1,0 +1,418 @@
+[
+    {
+        "name": "People.ai",
+        "domain": "https://www.people.ai",
+        "linkedinUrl": "https://www.linkedin.com/company/people.ai",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions that People.ai is building a robust data layer to power their LLM-based query engine (SalesAI), which aligns with the goal of targeting companies building AI Agents requiring robust memory layers. The focus on scalable and real-time architecture for processing vast amounts of data to unlock rich insights further supports this alignment.",
+        "signalLink": "https://jobs.lever.co/people-ai/e2ac0093-d81e-464a-8e8f-410fc8e746b0?utm_source=Partech+job+board&utm_medium=getro.com&gh_src=Partech+job+board",
+        "employees": 213,
+        "fundingStage": "Undisclosed",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "Based on the website content, People.ai focuses on sales and revenue operations by providing AI-driven analytics and unified data to optimize sales processes. The products and solutions mentioned are aimed at sales and revenue enhancement rather than developer tools."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not mention the availability of APIs or documentation. It focuses on the company's sales and AI-driven solutions without specific reference to developer resources like APIs or technical documentation."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not mention any backing or investment information related to Y Combinator. Additionally, there are no available tools specifically designed to verify this information directly from the company's main site text. It may require external confirmation from news articles or investment databases."
+                }
+            }
+        ]
+    },
+    {
+        "name": "Tektome Inc.",
+        "domain": "https://tektome.com",
+        "linkedinUrl": "https://jp.linkedin.com/company/tektome",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions the development of backend systems that enable seamless integration of AI functionalities and the use of different databases to achieve a unified ingestion, storage, and compute layer for AEC data. This aligns with the goal of targeting companies building AI Agents requiring robust memory layers.",
+        "signalLink": "https://jobs.lever.co/tektome/067fdcb2-44ef-458f-a9e9-4077b121d2e1",
+        "employees": 16,
+        "fundingStage": "",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "The website content indicates that Tektome focuses on AI technology for architectural design, including features such as an AI platform for automating design processes, quality checks, and data management related to architecture. While they offer AI-based solutions for design, this does not classify them as a developer tooling company, which typically provides tools and environments specifically catering to software developers."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content describes Tektome's AI platform and its design capabilities but does not mention APIs or documentation. As there's no explicit information on APIs or docs, I can't determine their presence from the text alone."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not mention any information about funding or backing by Y Combinator. Additionally, there are no direct tools to confirm Y Combinator backing based on the available data. A web search is needed to confirm this information."
+                }
+            }
+        ]
+    },
+    {
+        "name": "Fibonacci",
+        "domain": "https://www.fibonaccipartner.com",
+        "linkedinUrl": "https://www.linkedin.com/company/fibonaccipartner",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions the need to architect intelligent AI agents with tool calling, RAG, and memory layers, which directly aligns with the user's goal of targeting companies building AI Agents requiring robust memory layers.",
+        "signalLink": "https://www.linkedin.com/jobs/view/4207921711",
+        "employees": 5,
+        "fundingStage": "Other",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "Based on the website content provided, Fibonacci Partner is focused on AI-powered marketing solutions, particularly with their product 'Leonardo' which helps in digital marketing, strategy, creative, and ad buying. There is no mention of developer tools or services aimed at software development in the description provided."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not explicitly mention if Fibonacci Partner has its own APIs and documentation. The text focuses on their AI marketing platform, Leonardo, and its benefits but lacks specific details about API availability or documentation."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not mention any association with Y Combinator, and there is no additional information available that confirms their backing by Y Combinator. Therefore, it's unclear if they are backed by Y Combinator."
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sandisk",
+        "domain": "https://www.sandisk.com",
+        "linkedinUrl": "https://www.linkedin.com/company/sandisk",
+        "signalDescription": "There is a hiring surge happening in the AI/ML vertical within Sandisk's Engineering department, as evidenced by a substantial number of relevant job postings and a clear focus on enhancing memory technology and AI integration in their products.",
+        "signalLink": "https://www.linkedin.com/jobs/view/4167363978",
+        "employees": 5819,
+        "fundingStage": "Series E",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "Based on the website content, SanDisk is primarily focused on products such as SSDs, memory cards, flash drives, and accessories. There is no indication that they provide developer tools, which are typically software or services aiding in the software development process."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not contain any information about APIs or documentation. To determine if SanDisk offers APIs and documentation, additional web search or specific documentation from the company would be needed."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not contain information about whether SanDisk is backed by Y Combinator. To confirm this information, a web search would be necessary."
+                }
+            }
+        ]
+    },
+    {
+        "name": "Sesame",
+        "domain": "https://www.sesame.com",
+        "linkedinUrl": "https://www.linkedin.com/company/sesameai",
+        "signalDescription": "Directly fulfills goal: The job posting directly mentions the company's focus on designing a new kind of computer with voice companions, which implies the development of AI agents. The role specifically involves optimizing and deploying scalable machine learning models, including large language models (LLMs) and text-to-speech (TTS), which are critical components for AI agents requiring robust memory layers. Therefore, the posting directly fulfills the goal of targeting companies building AI agents with robust memory layers.",
+        "signalLink": "https://www.linkedin.com/jobs/view/4170151187",
+        "employees": 40,
+        "fundingStage": "Series A",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "The website content describes Sesame as a team focused on creating lifelike computer companions and lightweight eyewear, with emphasis on conversational voice technology and daily usefulness. This does not align with being a developer tooling company, which typically focuses on tools and services for software developers."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The website content provided does not mention APIs or documentation explicitly. Without more detailed information or using tools to check for APIs, it is unclear if Sesame offers APIs and documentation."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content provided does not mention any information about being backed by Y Combinator. I will need to perform a web search to confirm if Sesame is backed by Y Combinator."
+                }
+            }
+        ]
+    },
+    {
+        "name": "d-Matrix",
+        "domain": "https://www.d-matrix.ai",
+        "linkedinUrl": "https://www.linkedin.com/company/d-matrix",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions the development and optimization of machine learning models with a focus on memory-efficient inference techniques, which directly relates to building AI agents requiring robust memory layers. The role involves implementing scalable KV caching and memory-efficient inference techniques for transformer-based models, aligning with the user's goal.",
+        "signalLink": "https://www.linkedin.com/jobs/view/4182168451",
+        "employees": 214,
+        "fundingStage": "Series B",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "The website content focuses on d-Matrix's AI inference platform and hardware solutions aimed at improving performance and efficiency in data centers. There is no indication that the company develops tools or software aimed specifically at developers, which is typical of a developer tooling company."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content focuses on the Corsair AI inference platform but does not mention the availability of APIs or accompanying documentation. No reference to APIs or documentation can be discerned from the text provided, nor does it imply such resources are available."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not mention any backing by Y Combinator. To confirm if d-matrix.ai is backed by Y Combinator, external sources would need to be consulted, as it is not specifically stated in the large portion of their website text."
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mapbox",
+        "domain": "https://www.mapbox.com",
+        "linkedinUrl": "https://www.linkedin.com/company/mapbox",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions that Mapbox is working on AI features in their new Navigation SDK, which implies the development of AI agents. The role involves leading technical excellence and innovation in the Navigation organization, which includes AI features, thus directly fulfilling the goal of targeting companies building AI agents requiring robust memory layers.",
+        "signalLink": "https://jobs.ashbyhq.com/mapbox/5c9ebd3e-9a1b-4181-b42e-bb9d2c205859",
+        "employees": 824,
+        "fundingStage": "Series E",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "Yes",
+                    "reasoning": "The website content indicates that Mapbox provides APIs, SDKs, and location services that are specifically targeted towards developers, such as those building web, mobile, and automotive applications. The emphasis on products that simplify development and provide tools for application integration highlights their role as a developer tooling company."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Yes",
+                    "reasoning": "The website content mentions the use of 'Mapbox APIs and SDKs,' indicating they have their own APIs, along with readily available documentation. This suggests they provide tools for developers to build customizable maps with various location features."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not mention any association with Y Combinator. To determine if Mapbox is backed by Y Combinator, external confirmation from a web search is necessary."
+                }
+            }
+        ]
+    },
+    {
+        "name": "Amaze Systems",
+        "domain": "https://amazesystemsinc.com",
+        "linkedinUrl": "https://www.linkedin.com/company/amaze-systems",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions the development of compute-intensive and highly performant test applications focusing on PCIe, Memory, back-end network & TDP workloads, which are relevant to building AI Agents requiring robust memory layers. Additionally, it mentions collaboration with AI Frameworks SW, indicating a focus on AI development.",
+        "signalLink": "https://www.linkedin.com/jobs/view/4185779069",
+        "employees": 122,
+        "fundingStage": "",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not include any information that directly answers whether Amaze Systems Inc. is a developer tooling company. Since there is no indication in the pre-scraped text, I cannot determine if they specialize in developer tools. Using a web search might help clarify their market focus."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content is empty, providing no details about the company's offerings such as APIs or documentation. Without specific information from the website or tools indicating such features, I cannot confirm their presence."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content is empty, preventing direct confirmation of Y Combinator backing. Since there is no specific tool for investment information, using a web search would be necessary to confirm this detail."
+                }
+            }
+        ]
+    },
+    {
+        "name": "T-Mobile",
+        "domain": "https://bit.ly/3IK6i13",
+        "linkedinUrl": "https://www.linkedin.com/company/t-mobile",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions the role involves overseeing hardware design and integration for AI/ML infrastructure, which includes memory, CPU, and peripheral device integration. This directly relates to building AI agents requiring robust memory layers.",
+        "signalLink": "https://www.linkedin.com/jobs/view/4203248139",
+        "employees": 89881,
+        "fundingStage": "Post IPO debt",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "The provided content primarily focuses on T-Mobile's careers, benefits, and corporate structure, and does not indicate that they are a developer tooling company. It describes them as a wireless services company with various career opportunities but not as a company focused on developer tools."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided content does not contain information about whether the company has its own APIs and documentation. Since no direct mentions or related links were found in the website text, I cannot confirm this from the available content."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "The provided website content is related to T-Mobile, which is a large telecommunications company and not typically associated with Y Combinator, which backs early-stage startups. The website content does not mention any association with Y Combinator."
+                }
+            }
+        ]
+    },
+    {
+        "name": "Groq",
+        "domain": "https://groq.com",
+        "linkedinUrl": "https://www.linkedin.com/company/groq",
+        "signalDescription": "Directly fulfills goal: The job posting is for a Post Silicon Validation Engineer at Groq, a company that delivers fast, efficient AI inference. The role involves validation of memory systems such as DDRx and LPDDR, which are crucial for building AI agents requiring robust memory layers. This directly aligns with the user's goal of targeting companies building AI agents with robust memory layers.",
+        "signalLink": "https://www.linkedin.com/jobs/view/4063473184",
+        "employees": 414,
+        "fundingStage": "Series D",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "Based on the provided website content, Groq is primarily focused on AI inference and AI chips, positioning itself as a competitor to Nvidia. The content does not mention developer tools or solutions specifically targeted at developers, indicating that they are not a developer tooling company."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Yes",
+                    "reasoning": "The website content mentions that Groq offers APIs, as it states developers can use a \"FREE API KEY\" and refers to setting an \"OPENAI_API_KEY to your Groq API Key\" for API integration. This implies they have their own API and related documentation to support developers."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not mention any backing by Y Combinator. The information focuses on Groq's technology and funding rounds led by entities like BlackRock, but there is no explicit mention of Y Combinator. Without further information or verification from another source, I cannot confirm or deny this."
+                }
+            }
+        ]
+    },
+    {
+        "name": "XA Group",
+        "domain": "https://www.addenda.tech",
+        "linkedinUrl": "https://www.linkedin.com/company/xagroup",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions the development of AI copilots, chatbots, and intelligent agent systems using advanced GenAI applications, including agent-based and multi-agent architectures. It also highlights the implementation and management of vector databases, semantic search, and retrieval workflows, which are indicative of robust memory layers. Therefore, the posting directly fulfills the goal of targeting companies building AI Agents requiring robust memory layers.",
+        "signalLink": "https://jobs.lever.co/xagroup/b8efa685-4aa7-474b-b740-aa02874cf881",
+        "employees": 154,
+        "fundingStage": "Other",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "Based on the provided website content, Addenda is focused on leveraging AI for solutions in the insurance and automotive industries rather than providing developer tools. Their offerings include claims management and repair solutions for insurance and automotive sectors, not tools aimed specifically at developers."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content describes various AI-powered services offered by Addenda, focusing on insurance and automotive solutions. However, it does not explicitly mention the availability of APIs or documentation for their services. More detailed information or access to a developer portal would be necessary to confirm the existence of APIs and associated documentation."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not indicate whether Addenda is backed by Y Combinator. There is no mention of investors or any association with Y Combinator, and none of the tools can provide this specific investment information. It is best to perform a web search for confirmation."
+                }
+            }
+        ]
+    },
+    {
+        "name": "Qualcomm",
+        "domain": "https://www.qualcomm.com",
+        "linkedinUrl": "https://www.linkedin.com/company/qualcomm",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions developing and supporting cutting-edge on-device machine learning applications, including those that are memory-challenging, such as large language models and Gen AI. This directly aligns with the goal of targeting companies building AI Agents requiring robust memory layers.",
+        "signalLink": "https://www.linkedin.com/jobs/view/4210043804?refId=NEjKFBzdCzUgBoIWeJ18ng%3D%3D&trackingId=er3U%2BkCcQ0rNstH30JiTQg%3D%3D&position=4&pageNum=0",
+        "employees": 46649,
+        "fundingStage": "Public",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "The website content provided does not give any information about Qualcomm. Given Qualcomm's known business activities related to semiconductors and telecommunications, they are not typically categorized as a developer tooling company. Developer tooling companies are usually software companies that provide tools for software developers, such as IDEs, frameworks, or development environments. Qualcomm is focused more on hardware and technology solutions rather than developer tools."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The website content provided is insufficient to determine if Qualcomm provides its own APIs and documentation. Since the content only mentions enabling JavaScript, it doesn't offer the necessary details."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The website content does not provide any information about Qualcomm's backing by Y Combinator. Since this type of information is not usually available in tools focused on employee or technology insights, a broader web search would be necessary to determine this fact."
+                }
+            }
+        ]
+    },
+    {
+        "name": "Writer",
+        "domain": "https://writer.com",
+        "linkedinUrl": "https://www.linkedin.com/company/getwriter",
+        "signalDescription": "Directly fulfills goal: The job posting explicitly mentions the role involves working on Generative AI technology stack, including Large Language Models (LLMs) and Retrieval Augmented Generation (RAG) systems, which are relevant to building AI agents with robust memory layers. The responsibilities include optimizing LLM inference and RAG performance, which directly relates to the goal of targeting companies building AI agents requiring robust memory layers.",
+        "signalLink": "https://jobs.ashbyhq.com/writer/dfa0b994-219f-4b1b-a8ac-fe04fbe17895?ref=www.moaijobs.com",
+        "employees": 1668,
+        "fundingStage": "Series C",
+        "magicColumns": [
+            {
+                "question": "Are they a developer tooling company?",
+                "generated": {
+                    "answer": "No",
+                    "reasoning": "Based on the provided website content, Writer is described as an AI company focusing on enterprise AI solutions including AI agents and large language models (LLMs). They provide tools and platforms for building, activating, and supervising AI agents across various business functions such as sales, marketing, and operations. They do not primarily seem to focus on developer tooling but rather on AI-driven business solutions."
+                }
+            },
+            {
+                "question": "Do they have their own apis and docs?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided content describes Writer as an AI platform with various tools for building and managing AI agents, but it does not explicitly mention the presence of APIs or documentation. Therefore, it is unclear if APIs and docs are available."
+                }
+            },
+            {
+                "question": "Are they backed by Y combinator?",
+                "generated": {
+                    "answer": "Unsure",
+                    "reasoning": "The provided website content does not indicate any information about funding or backing by Y Combinator. It focuses on the platform's features and customer testimonials. I would need to perform a web search for information about Writer's funding origins and whether they are backed by Y Combinator."
+                }
+            }
+        ]
+    }
+]
